@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="bfc11cc3-c8b1-4776-a606-c72934509412" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson-11.3.1" />
+        <entry key="$PROJECT_DIR$" value="lesson-10.7.1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,7 +32,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "lesson-11.3.1"
+    "git-widget-placeholder": "lesson-11.2.1"
   }
 }]]></component>
   <component name="RunManager">
