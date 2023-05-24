@@ -1,5 +1,5 @@
 # JavaRush
-My first repository in github where i upload my progress by learning java!. 
+My first repository in github where i upload my progress by learning java! 
 
 
 
